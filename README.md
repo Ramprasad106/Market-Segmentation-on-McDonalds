@@ -1,4 +1,4 @@
-# Market-Segmentation-on-McDonalds(Feynn Labs)
+# Market-Segmentation-on-McDonalds
 The below shown is the Mc Donalds dataset which has the feedback collected from 1453 cutomers on various factors.
 ![Example Image](Screenshots/1.png)
 
