@@ -1,4 +1,4 @@
-# Market-Segmentation-on-McDonalds
+# Market-Segmentation-on-McDonalds(Feynn Labs)
 The below shown is the Mc Donalds dataset which has the feedback collected from 1453 cutomers on various factors.
 ![Example Image](Screenshots/1.png)
 
@@ -35,9 +35,22 @@ Inorder to inspect how how segment memberships change each time an additional ma
 for the segments from 2-8 the plot is shown below.
 ![Example Image](Screenshots/12.png)
 
+The below plot shows the information criteria values AIC, BIC and ICL on the y-axis
+for the different number of components (segments) on the x-axis. As can be seen, the
+values of all information criteria decrease quite dramatically until four components
+(market segments) are reached. If the information criteria are strictly applied based
+on statistical inference theory, the ICL recommends – by a small margin – the
+extraction of seven market segments. The BIC also points to seven market segments.
+The AIC values continue to decrease beyond seven market segments, indicating that
+at least eight components are required to suitably fit the data.
+The visual inspection of Fig. A.7 suggests that four market segments might be a
+good solution if a more pragmatic point of view is taken; this is the point at which the
+decrease in the information criteria flattens visibly. 
 ![Example Image](Screenshots/14.png)
+
+Segment profile plot for the four-segment solution for the fast food data set
 ![Example Image](Screenshots/15.png)
+
+Segment separation plot using principal components 1 and 2 for the fast food data set
 ![Example Image](Screenshots/16.png)
 ![Example Image](Screenshots/17.png)
-![Example Image](Screenshots/19.png)
-![Example Image](Screenshots/20.png)
